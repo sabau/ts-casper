@@ -4,7 +4,7 @@
   "author": "karoly.albert.szabo@trueblue.it",
   "private": true,
   "scripts": {
-    "start": "casperjs test login.js --verbose --engine=slimerjs"
+    "start": "casperjs test test.js --verbose --engine=slimerjs"
   },
   "dependencies": {
     "casperjs": "^1.1.4",
