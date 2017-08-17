@@ -7,8 +7,11 @@
     "start": "casperjs test test.js --verbose --engine=slimerjs"
   },
   "dependencies": {
+    "@types/casperjs": "^1.0.31",
+    "@types/phantomjs": "^1.9.29",
+    "@types/slimerjs": "^0.10.2",
     "casperjs": "^1.1.4",
-    "slimerjs": "^0.10.3",
-    "phantomjs": "^2.1.7"
+    "phantomjs": "^2.1.7",
+    "slimerjs": "^0.10.3"
   }
 }
