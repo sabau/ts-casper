@@ -13,5 +13,8 @@
     "casperjs": "^1.1.4",
     "phantomjs": "^2.1.7",
     "slimerjs": "^0.10.3"
+  },
+  "devDependencies": {
+    "typings": "^2.1.1"
   }
 }
