@@ -8,7 +8,7 @@
     "outDir": "./js/"
   },
   "filesGlob": [
-    "./ts/*.ts",
+    "./tss/*.ts",
     "./node_modules/**/*.ts"
   ],
   "exclude": [
